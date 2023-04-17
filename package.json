@@ -1,0 +1,15 @@
+{
+  "name": "tarjeta-perfil",
+  "version": "1.0.0",
+  "description": "Tajeta de jemplo para posicionar elementos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "Juan José García Torres",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
